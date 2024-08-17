@@ -1,8 +1,11 @@
 ![1](https://github.com/user-attachments/assets/beaa60d4-9a26-4cbd-9183-51c2f0cf43d4)
 
-# ¿Qué construirás?
-Para este proyecto, construirás una aplicación web con React que consumirá datos de una API pública. Los datos que obtenga de la API se mostrarán en una interfaz de usuario.
-- Usé una API pública llamada https://restcountries.com/ tal como la vimos en clase. Me ayudó mucho ver las grabaciones para completar y lograr mi proyecto.
+# Proyecto React con Vite
+Este proyecto es una aplicación web desarrollada en React utilizando Vite como herramienta de construcción. La aplicación muestra una lista de países agrupados por continentes, permitiendo al usuario seleccionar un continente y luego ver los detalles de un país específico.
+
+## Lo primero que hice fue:
+
+Crear mi App.jsx donde deplogue mi codigo, importando 
 
 ![proyecto](https://github.com/user-attachments/assets/f585db35-21bc-42ae-89a2-ca20a8c7b5ed)
 ![proyecto2](https://github.com/user-attachments/assets/0b327d6d-3b07-42aa-9b77-8739e8f5b1bd)
