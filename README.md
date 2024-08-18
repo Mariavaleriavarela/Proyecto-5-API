@@ -4,7 +4,7 @@
 Este proyecto es una aplicación web desarrollada en React utilizando Vite como herramienta de construcción. La aplicación muestra una lista de países agrupados por continentes, permitiendo al usuario seleccionar un continente y luego ver los detalles de un país específico.
 
 ## Características
-- Uso de Vite: Vite se utiliza para la configuración y el desarrollo rápido del proyecto.
+- Vite: Vite se utiliza para la configuración y el desarrollo rápido del proyecto.
 - Componentes Funcionales: Los componentes se desarrollaron siguiendo el enfoque funcional de React.
 - API Pública: Se obtiene información de países a través de la API pública de REST Countries.
 - Hooks de React: Se utilizaron hooks como useEffect y useState para manejar el estado y las operaciones asíncronas.
@@ -24,13 +24,14 @@ Este proyecto es una aplicación web desarrollada en React utilizando Vite como 
 - La aplicación utiliza la API de REST Countries para obtener información sobre los países, como el nombre, la población, la bandera, la capital y la zona horaria.
 
 ## Hooks de React
-Se utilizaron los siguientes hooks de React:
+Utilice los siguientes hooks de React:
 
 useEffect: Para realizar la solicitud a la API cuando el componente se monta.
+
 useState: Para manejar el estado de la aplicación, incluyendo la lista de países, el continente seleccionado y el país seleccionado.
 
 ## Estilos con TailwindCSS
-Se utilizó TailwindCSS para diseñar y estilizar la interfaz de usuario de la aplicación.
+Utilice TailwindCSS para diseñar y estilizar la interfaz de usuario de la aplicación.
 
 
 ![proyecto](https://github.com/user-attachments/assets/f585db35-21bc-42ae-89a2-ca20a8c7b5ed)
@@ -38,7 +39,10 @@ Se utilizó TailwindCSS para diseñar y estilizar la interfaz de usuario de la a
 ![proyecto3](https://github.com/user-attachments/assets/d24db74d-65e7-4e4f-9c48-3149178b2550)
 ![proyceto 4](https://github.com/user-attachments/assets/790a5ffa-eaff-41e7-8f8d-41f667e539ff)
 
-# Para finzalizar use Render como tercero para mostrar mi proyecto.
+# Para finzalizar 
+
+use Render como tercero para mostrar mi proyecto.
+
 https://proyecto-5-kviv.onrender.com
 
 ### ¡Muchas Gracias!
