@@ -41,7 +41,7 @@ Utilice TailwindCSS para diseñar y estilizar la interfaz de usuario de la aplic
 
 # Para finzalizar 
 
-use Render como tercero para mostrar mi proyecto.
+Use Render como tercero para mostrar mi proyecto.
 
 https://proyecto-5-kviv.onrender.com
 
