@@ -1,7 +1,7 @@
 ![1](https://github.com/user-attachments/assets/beaa60d4-9a26-4cbd-9183-51c2f0cf43d4)
 
 # Proyecto React con Vite
-Este proyecto es una aplicación web desarrollada en React utilizando Vite como herramienta de construcción. La aplicación muestra una lista de países agrupados por continentes, permitiendo al usuario seleccionar un continente y luego ver los detalles de un país específico.
+En este proyecto cree una aplicación web desarrollada en React utilizando Vite como herramienta de construcción. La aplicación muestra una lista de países agrupados por continentes, permitiendo al usuario seleccionar un continente y luego ver los detalles de un país específico.
 
 ## Características
 - Vite: Vite se utiliza para la configuración y el desarrollo rápido del proyecto.
